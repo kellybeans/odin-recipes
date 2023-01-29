@@ -1,0 +1,61 @@
+h1 {
+    text-align: center;
+    font-size: 600%;
+    background-image: url("https://media.istockphoto.com/id/1258733624/vector/herbs-and-spices-seamless-pattern-ginger-spinach-onion-pepper-garlic-fennel-packaging.jpg?s=612x612&w=0&k=20&c=6Fioel8Vz9YjpamIfhS68KzPhPfgPbcX5gs_6fJQPzQ=")
+}
+
+.slogan {
+    text-align: center;
+    font-size: 150%
+}
+
+.recipe,
+.ingredient,
+.method {
+    text-align: center;
+    font-size: 300%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description {
+    font-size: 200%;
+    text-align: center;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+
+.list {
+    font-size: 150%;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.ingredient-list {
+    text-align: center;
+}
+
+a:link, a:visited {
+    background-color: #f1ad4f;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(245, 129, 58);
+  }
+
+  .text-center {
+    text-align: center;
+  }
+   
+
+
